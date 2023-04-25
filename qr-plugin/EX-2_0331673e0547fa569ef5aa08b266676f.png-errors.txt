@@ -1,0 +1,68 @@
+2022-11-07 21:27:08: <br />
+<b>Warning</b>:  file_put_contents(C:\xampp\htdocs\event\cache\frame_21.dat): Failed to open stream: No such file or directory in <b>C:\xampp\htdocs\event\qr-plugin\qrspec.php</b> on line <b>568</b><br />
+<br />
+<b>Warning</b>:  mkdir(): No such file or directory in <b>C:\xampp\htdocs\event\qr-plugin\qrmask.php</b> on line <b>154</b><br />
+<br />
+<b>Warning</b>:  file_put_contents(C:\xampp\htdocs\event\cache\mask_0\mask_101_0.dat): Failed to open stream: No such file or directory in <b>C:\xampp\htdocs\event\qr-plugin\qrmask.php</b> on line <b>155</b><br />
+<br />
+<b>Warning</b>:  mkdir(): No such file or directory in <b>C:\xampp\htdocs\event\qr-plugin\qrmask.php</b> on line <b>154</b><br />
+<br />
+<b>Warning</b>:  file_put_contents(C:\xampp\htdocs\event\cache\mask_1\mask_101_1.dat): Failed to open stream: No such file or directory in <b>C:\xampp\htdocs\event\qr-plugin\qrmask.php</b> on line <b>155</b><br />
+<br />
+<b>Warning</b>:  mkdir(): No such file or directory in <b>C:\xampp\htdocs\event\qr-plugin\qrmask.php</b> on line <b>154</b><br />
+<br />
+<b>Warning</b>:  file_put_contents(C:\xampp\htdocs\event\cache\mask_2\mask_101_2.dat): Failed to open stream: No such file or directory in <b>C:\xampp\htdocs\event\qr-plugin\qrmask.php</b> on line <b>155</b><br />
+<br />
+<b>Warning</b>:  mkdir(): No such file or directory in <b>C:\xampp\htdocs\event\qr-plugin\qrmask.php</b> on line <b>154</b><br />
+<br />
+<b>Warning</b>:  file_put_contents(C:\xampp\htdocs\event\cache\mask_3\mask_101_3.dat): Failed to open stream: No such file or directory in <b>C:\xampp\htdocs\event\qr-plugin\qrmask.php</b> on line <b>155</b><br />
+<br />
+<b>Warning</b>:  mkdir(): No such file or directory in <b>C:\xampp\htdocs\event\qr-plugin\qrmask.php</b> on line <b>154</b><br />
+<br />
+<b>Warning</b>:  file_put_contents(C:\xampp\htdocs\event\cache\mask_4\mask_101_4.dat): Failed to open stream: No such file or directory in <b>C:\xampp\htdocs\event\qr-plugin\qrmask.php</b> on line <b>155</b><br />
+<br />
+<b>Warning</b>:  mkdir(): No such file or directory in <b>C:\xampp\htdocs\event\qr-plugin\qrmask.php</b> on line <b>154</b><br />
+<br />
+<b>Warning</b>:  file_put_contents(C:\xampp\htdocs\event\cache\mask_5\mask_101_5.dat): Failed to open stream: No such file or directory in <b>C:\xampp\htdocs\event\qr-plugin\qrmask.php</b> on line <b>155</b><br />
+<br />
+<b>Warning</b>:  mkdir(): No such file or directory in <b>C:\xampp\htdocs\event\qr-plugin\qrmask.php</b> on line <b>154</b><br />
+<br />
+<b>Warning</b>:  file_put_contents(C:\xampp\htdocs\event\cache\mask_6\mask_101_6.dat): Failed to open stream: No such file or directory in <b>C:\xampp\htdocs\event\qr-plugin\qrmask.php</b> on line <b>155</b><br />
+<br />
+<b>Warning</b>:  mkdir(): No such file or directory in <b>C:\xampp\htdocs\event\qr-plugin\qrmask.php</b> on line <b>154</b><br />
+<br />
+<b>Warning</b>:  file_put_contents(C:\xampp\htdocs\event\cache\mask_7\mask_101_7.dat): Failed to open stream: No such file or directory in <b>C:\xampp\htdocs\event\qr-plugin\qrmask.php</b> on line <b>155</b><br />
+2023-01-18 11:19:08: <br />
+<b>Warning</b>:  file_put_contents(C:\xampp\htdocs\event\cache\frame_20.dat): Failed to open stream: No such file or directory in <b>C:\xampp\htdocs\event\qr-plugin\qrspec.php</b> on line <b>568</b><br />
+<br />
+<b>Warning</b>:  mkdir(): No such file or directory in <b>C:\xampp\htdocs\event\qr-plugin\qrmask.php</b> on line <b>154</b><br />
+<br />
+<b>Warning</b>:  file_put_contents(C:\xampp\htdocs\event\cache\mask_0\mask_97_0.dat): Failed to open stream: No such file or directory in <b>C:\xampp\htdocs\event\qr-plugin\qrmask.php</b> on line <b>155</b><br />
+<br />
+<b>Warning</b>:  mkdir(): No such file or directory in <b>C:\xampp\htdocs\event\qr-plugin\qrmask.php</b> on line <b>154</b><br />
+<br />
+<b>Warning</b>:  file_put_contents(C:\xampp\htdocs\event\cache\mask_1\mask_97_1.dat): Failed to open stream: No such file or directory in <b>C:\xampp\htdocs\event\qr-plugin\qrmask.php</b> on line <b>155</b><br />
+<br />
+<b>Warning</b>:  mkdir(): No such file or directory in <b>C:\xampp\htdocs\event\qr-plugin\qrmask.php</b> on line <b>154</b><br />
+<br />
+<b>Warning</b>:  file_put_contents(C:\xampp\htdocs\event\cache\mask_2\mask_97_2.dat): Failed to open stream: No such file or directory in <b>C:\xampp\htdocs\event\qr-plugin\qrmask.php</b> on line <b>155</b><br />
+<br />
+<b>Warning</b>:  mkdir(): No such file or directory in <b>C:\xampp\htdocs\event\qr-plugin\qrmask.php</b> on line <b>154</b><br />
+<br />
+<b>Warning</b>:  file_put_contents(C:\xampp\htdocs\event\cache\mask_3\mask_97_3.dat): Failed to open stream: No such file or directory in <b>C:\xampp\htdocs\event\qr-plugin\qrmask.php</b> on line <b>155</b><br />
+<br />
+<b>Warning</b>:  mkdir(): No such file or directory in <b>C:\xampp\htdocs\event\qr-plugin\qrmask.php</b> on line <b>154</b><br />
+<br />
+<b>Warning</b>:  file_put_contents(C:\xampp\htdocs\event\cache\mask_4\mask_97_4.dat): Failed to open stream: No such file or directory in <b>C:\xampp\htdocs\event\qr-plugin\qrmask.php</b> on line <b>155</b><br />
+<br />
+<b>Warning</b>:  mkdir(): No such file or directory in <b>C:\xampp\htdocs\event\qr-plugin\qrmask.php</b> on line <b>154</b><br />
+<br />
+<b>Warning</b>:  file_put_contents(C:\xampp\htdocs\event\cache\mask_5\mask_97_5.dat): Failed to open stream: No such file or directory in <b>C:\xampp\htdocs\event\qr-plugin\qrmask.php</b> on line <b>155</b><br />
+<br />
+<b>Warning</b>:  mkdir(): No such file or directory in <b>C:\xampp\htdocs\event\qr-plugin\qrmask.php</b> on line <b>154</b><br />
+<br />
+<b>Warning</b>:  file_put_contents(C:\xampp\htdocs\event\cache\mask_6\mask_97_6.dat): Failed to open stream: No such file or directory in <b>C:\xampp\htdocs\event\qr-plugin\qrmask.php</b> on line <b>155</b><br />
+<br />
+<b>Warning</b>:  mkdir(): No such file or directory in <b>C:\xampp\htdocs\event\qr-plugin\qrmask.php</b> on line <b>154</b><br />
+<br />
+<b>Warning</b>:  file_put_contents(C:\xampp\htdocs\event\cache\mask_7\mask_97_7.dat): Failed to open stream: No such file or directory in <b>C:\xampp\htdocs\event\qr-plugin\qrmask.php</b> on line <b>155</b><br />

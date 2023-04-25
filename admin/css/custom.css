@@ -1,0 +1,45 @@
+/* your styles go here */
+
+.modal-title{
+   color: #800080;
+}
+
+label{
+   color: #bb8f00;
+}
+
+th{
+   color: #800080;
+}
+
+.card-header h3{
+   color: #800080;
+}
+
+h2{
+   color: #800080;
+}
+small{
+   color: #800080;
+}
+.form-control{
+   border: 1px dotted #888888;
+}
+input{
+   border: 1px dotted #888888;
+   margin-left: 5px;
+}
+select{
+   border: 1px dotted #888888;
+   margin-right: 5px;
+}
+option{
+   color: #800080;
+}
+span{
+   color: #DCb535;
+}
+.carousel-item{
+   height: 130px;
+   background-color: #800080;
+}
